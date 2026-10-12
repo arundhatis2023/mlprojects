@@ -1,6 +1,9 @@
 pandas
 numpy
 seaborn
+matplotlib
 Flask
+catboost
+xgboost
 
--e .
+#-e .
